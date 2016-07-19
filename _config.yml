@@ -1,0 +1,29 @@
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
+
+kramdown:
+  input: GFM
+
+# 作者信息
+author: 
+  name: coder
+  email: e***@***.***
+  link: http://****.****
+  weibo: http://weibo.com/****
+  github: http://github.com/****
+
+# 站点信息
+title: coder's blog
+description: coder's博客
+url: http://***.***
+rss_url: /pages/atom.xml
+
+#多说配置
+duoshuo_short_name: coderdemo
+
+#Google站内搜索
+google_cx: g***
+
+# avatar头像及Favicon
+avatar: http://cdn.saymagic.cn/140830131806.png
+favicon: http://cdn.saymagic.cn/140830131806.png

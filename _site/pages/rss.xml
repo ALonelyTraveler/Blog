@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>coder's blog</title>
+    <link>http://***.***</link>
+    <description>coder's博客</description>
+    
+      <item>
+        <title>我的第一篇博客</title>
+        <link>http://***.***/2015/05/18/my-first-blog.html</link>
+        <guid isPermaLink="true">http://***.***/2015/05/18/my-first-blog.html</guid>
+        <pubDate>Mon, 18 May 2015 00:00:00 +0800</pubDate>
+        <description>&lt;p&gt;Hello World！This is my first Blog. I like write code :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;public class Me {
+
+    public static final String name = &quot;saymagic&quot;;
+    
+    public static short age = 22;
+    
+    public static String work = &quot;Android Programmer&quot;;
+            
+    public static void main(String[] args) {
+        selfIntroduction();
+    }
+    
+    public static void selfIntroduction(){
+        System.out.println(&quot;Hello everyone,&quot;
+                * &quot;my name is &quot; + name
+                * &quot;, I am &quot; + age + &quot; years old. &quot;
+                * &quot;I am an &quot; + work + &quot;!&quot;);
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+      </item>
+    
+  </channel>
+</rss>
